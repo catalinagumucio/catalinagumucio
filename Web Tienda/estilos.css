@@ -1,0 +1,32 @@
+body {
+	/*background-image: url("img/textura.jpg"); */
+}
+
+.media img {
+	width: 64px;
+}
+
+#galeria img {
+	margin-bottom: 15px;
+}
+
+#footer {
+	text-align: center;
+	background-color: #444;
+	color: white;
+	padding: 40px 0px;
+}
+
+#footer i {
+	border: 1px solid white;
+	padding: 10px;
+	background-color: white;
+	color: #444;
+}
+#footer i:hover {
+	background-color: #444;
+	color: white;
+}
+#carousel-example-generic img{
+	width: 100%;
+}
